@@ -1,5 +1,5 @@
 # IMAD-WEATHER-SUBMISSION
-
+AMUKELANI NHLENGETHWA- ST10446794
 PURPOSE AND EXPLANATION OF THIS APPLICATION CALLED “ WEATHER APP”
 
 Initially this application is a weather app that is perfectly designed to provide users with a detailed and on point weather forecast information for a week. It comes with features such as
